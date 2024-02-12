@@ -1,2 +1,5 @@
-#Access Docker container
+# Access Docker container
+
+```shell
 docker exec -it <container name>
+```
