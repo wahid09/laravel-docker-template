@@ -1,5 +1,5 @@
 # Access Docker container
 
 ```shell
-docker exec -it <container name>
+docker exec -it <container name> bash
 ```
